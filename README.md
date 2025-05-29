@@ -2,6 +2,10 @@
 
 This project simulates a student registry using a command prompt for a university demonstrating proper object-oriented design and object-oriented programming principles of Abstraction, Encapsulation, Inheritance, and Polymorphism.
 
+To compile, run in the root directory:
+1. javac main/*.java exceptions/*.java
+2. java main.StudentRegistrySimulator
+
 Commands:
 - “L” : list all students
 - “Q” : quit
