@@ -1,0 +1,44 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore IDE-specific files (IntelliJ / Eclipse / VS Code)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sw?
+
+# Ignore Maven target folder
+/target/
+
+# Ignore Gradle build folder and cache
+/build/
+.gradle/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.~*
+*.orig
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore test reports
+/test-output/
+
+# Ignore jar/war/ear files
+*.jar
+*.war
+*.ear
+
+# Ignore generated files from annotation processors
+generated/
